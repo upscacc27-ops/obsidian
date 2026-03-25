@@ -1,0 +1,2 @@
+- Right against adverse impact of climate change recognized under [[Art 21 Right to life and personal liberty]]
+- Climate stability is essential for survival, dignity & future generations

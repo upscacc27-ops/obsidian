@@ -1,0 +1,2 @@
+- Court held right to life includes dignity, humane treatment, & basic necessities
+- Prisoners also retain Fundamental Rights except lawful restrictions

@@ -1,0 +1,2 @@
+- court laid down guidelines to prevent torture & illegal detention
+- Custodial violence violates dignity & personal liberty

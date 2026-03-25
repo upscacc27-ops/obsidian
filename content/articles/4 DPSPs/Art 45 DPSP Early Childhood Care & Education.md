@@ -1,0 +1,1 @@
+- state should free & compulsory education to the children up to 14 years of age. Mentioned a timeline of 10 years to achieve this DPSP.

@@ -1,0 +1,1 @@
+- SC stated that criminal proceedings involve punishment for an offence, prevent detention does not

@@ -1,0 +1,2 @@
+- arrested for a Facebook post criticizing political leaders
+- Madras HC held law being used to suppress dissent & highlighted its vague wording

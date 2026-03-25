@@ -1,0 +1,2 @@
+- Recognized passive euthanasia & living will
+- Right to die with dignity recognized as part of [[Art 21 Right to life and personal liberty]]

@@ -1,0 +1,2 @@
+- upheld Section 295A of IPC, penalizing deliberate acts intended to outrage religious feelings
+- Speech causing public order can be restricted - [[Art 19(1)(a) Freedom of Speech or Expression]] is not absolute

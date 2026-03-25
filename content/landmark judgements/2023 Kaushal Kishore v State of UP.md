@@ -1,0 +1,2 @@
+- Right to be forgotten & digital privacy
+- state has an obligation to protect dignity from non-state actors

@@ -1,0 +1,1 @@
+- Purpose of detention not to punish but to keep the detainee from committing any offence that would jeopardize the state's security

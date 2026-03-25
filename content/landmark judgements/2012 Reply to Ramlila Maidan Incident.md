@@ -1,0 +1,2 @@
+- Right to sleep is essential to health & dignity
+- State cannot arbitrarily disturb peacefully sleeping individuals

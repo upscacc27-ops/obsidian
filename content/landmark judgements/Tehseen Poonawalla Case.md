@@ -1,0 +1,1 @@
+- SC observed that it is state's fundamental duty to safeguard the dignity and lives of citizens - prevent hate crimes & protect the vulnerable

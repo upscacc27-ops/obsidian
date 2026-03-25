@@ -1,0 +1,1 @@
+- SC held that constitution does not recognize a fundamental right to die, but observed that dying with dignity in case of terminal illness might fall within [[Art 21 Right to life and personal liberty]]

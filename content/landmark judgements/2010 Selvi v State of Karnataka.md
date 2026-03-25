@@ -1,0 +1,2 @@
+- Forced narcoanalysis & polygraph tests violates mental privacy
+- Bodily integrity & mental autonomy are protected under [[Art 21 Right to life and personal liberty]]

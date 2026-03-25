@@ -1,0 +1,1 @@
+- Court mandated that trial courts must conduct a thorough study of the convict's background - including psychological evaluations & prison conduct reports - before adjudicating a death sentence

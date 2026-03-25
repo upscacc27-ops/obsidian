@@ -1,0 +1,2 @@
+- Court held livelihood is essential for survival & dignity
+- Deprivation of livelihood violates [[Art 21 Right to life and personal liberty]]

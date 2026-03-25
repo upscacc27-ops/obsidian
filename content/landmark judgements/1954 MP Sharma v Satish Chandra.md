@@ -1,0 +1,2 @@
+- The court denied the existence of the **right to privacy** under the constitution
+- State search & surveillance was allowed without constitutional privacy protection

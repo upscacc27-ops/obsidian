@@ -1,0 +1,2 @@
+- Supreme Court held the right to speed trial is an essential part of right to life & personal liberty
+- Prolonged detention without trial violates dignity & procedural fairness

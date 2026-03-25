@@ -1,0 +1,3 @@
+- SC upheld the constitutionality of Preventive Detention Act
+- [[Art 22 Protection against arrest and detention]] includes extensive procedural safeguards related to Preventive detention
+- contested act did not violate FR under Art 22, as it met all the safeguards outlined

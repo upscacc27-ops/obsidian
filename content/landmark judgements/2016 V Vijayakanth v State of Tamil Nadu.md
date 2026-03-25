@@ -1,0 +1,2 @@
+- Court warned govts. against political misuse of defamation
+- Public figures must endure sharper criticism

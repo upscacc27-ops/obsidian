@@ -1,0 +1,2 @@
+- student arrested for posting online
+- Karnataka HC noted that mere annoyance or insult cannot be criminalized

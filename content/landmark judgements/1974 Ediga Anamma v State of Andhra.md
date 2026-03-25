@@ -1,0 +1,1 @@
+- Supreme Court laid down that life imprisonment for offence of murder is the general rule & capital punishment is an exception. Special reason required if a court decides to impose a death sentence

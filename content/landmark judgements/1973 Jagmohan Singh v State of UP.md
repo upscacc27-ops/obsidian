@@ -1,0 +1,1 @@
+- first to uphold the constitutionality of death penalty

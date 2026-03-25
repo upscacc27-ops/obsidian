@@ -1,0 +1,2 @@
+- Delhi High Court dealt with corporate defamation & online parody
+- Refused injunction against Greenpeace international for publishing online satirical game criticizing Tata's environmental policies

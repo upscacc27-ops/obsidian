@@ -1,0 +1,2 @@
+- Telephone tapping violates privacy unless done under strict safeguards
+- State surveillance must follow procedural safeguards

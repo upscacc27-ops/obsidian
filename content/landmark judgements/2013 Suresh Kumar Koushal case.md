@@ -1,0 +1,1 @@
+- SC upheld the constitutional validity of Section 377 of IPC

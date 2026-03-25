@@ -1,0 +1,2 @@
+- Court held life means more than mere animal existence & includes dignity
+- privacy still no full recognized as a fundamental rights

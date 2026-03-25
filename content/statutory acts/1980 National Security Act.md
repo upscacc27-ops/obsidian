@@ -1,0 +1,1 @@
+- administrative detention for up to 1 year

@@ -1,0 +1,2 @@
+- SC declined to criminalize hate speech in absence of any specific law. 
+- recommended Law Commission to define *Hate Speech* and suggest measures to strengthened related legislation

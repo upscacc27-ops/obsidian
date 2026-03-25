@@ -1,0 +1,3 @@
+The Justice Rohini Commission, set up to look into the politically sensitive question of **equitable redistribution of the 27% quota for Other Backward Castes (OBC)**, is set to begin consultations next month with states on a four-category formula.
+
+**Detail:** The Commission, formed on October 2, 2017, have drawn up a proposal to divide the total 2,633 OBC castes in the Central List into four subcategories. The categories numbered 1, 2, 3 and 4 are proposed to split 27% of the OBC quota reservation into 2,6,9 and 10 percent, respectively.

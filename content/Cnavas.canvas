@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"d51566cbf214dc28","type":"file","file":"Blueprints/Constitution/Constitutionalism.md","x":-1861,"y":-1402,"width":400,"height":400},
+		{"id":"eebfc8077e900500","type":"file","file":"Blueprints/Constitution/Constitutional Morality.md","x":-1861,"y":-880,"width":400,"height":400},
+		{"id":"b8c7aea84009876b","type":"file","file":"Blueprints/Constitution/Transformative Constitutionalism.md","x":-1861,"y":-240,"width":400,"height":400},
+		{"id":"0c884ab00b32528c","type":"file","file":"Blueprints/Constitution/Indian Constitution - evolution.md","x":-1200,"y":-1402,"width":400,"height":400},
+		{"id":"a058e8d285fa3ece","type":"file","file":"Blueprints/Constitution/Basic Structure Doctrine.md","x":-880,"y":-740,"width":400,"height":400},
+		{"id":"12d531a366b2405a","type":"file","file":"Blueprints/Constitution/Amendments.md","x":-480,"y":-40,"width":400,"height":400,"color":"1"},
+		{"id":"e9fc33d4fa6d239f","type":"file","file":"Blueprints/Constitution/Preamble.md","x":-1760,"y":-2120,"width":400,"height":400},
+		{"id":"1d98bfe6a27d50f1","type":"file","file":"Blueprints/Constitution/Secularism in India.md","x":-800,"y":-2120,"width":400,"height":400},
+		{"id":"3eaca7fd3394250e","x":-6080,"y":-2120,"width":400,"height":400,"type":"file","file":"Blueprints/FR DPSP FD/Reservation.md"},
+		{"id":"e9d31b5a718d2bf4","x":-6760,"y":-1980,"width":400,"height":60,"type":"text","text":"ART 15 - prohibition of discrimination on grounds only of RRCSB"},
+		{"id":"37b5750beafd20ec","x":-5640,"y":-2120,"width":400,"height":400,"type":"file","file":"Blueprints/FR DPSP FD/Sub Classification of SC ST.md"},
+		{"id":"872bd02a12aa95bb","x":-5200,"y":-2120,"width":400,"height":400,"type":"file","file":"Blueprints/FR DPSP FD/EWS Reservation.md"}
+	],
+	"edges":[
+		{"id":"0a59692df0ad9386","fromNode":"a058e8d285fa3ece","fromSide":"bottom","toNode":"12d531a366b2405a","toSide":"top"},
+		{"id":"914f5ec34990f33c","fromNode":"d51566cbf214dc28","fromSide":"bottom","toNode":"eebfc8077e900500","toSide":"top"},
+		{"id":"25c43e50f50996f5","fromNode":"eebfc8077e900500","fromSide":"bottom","toNode":"b8c7aea84009876b","toSide":"top"},
+		{"id":"59970b3601063c14","fromNode":"d51566cbf214dc28","fromSide":"right","toNode":"0c884ab00b32528c","toSide":"left"},
+		{"id":"f83b550c5381781a","fromNode":"0c884ab00b32528c","fromSide":"top","toNode":"e9fc33d4fa6d239f","toSide":"bottom"},
+		{"id":"bb3478b642330aec","fromNode":"0c884ab00b32528c","fromSide":"top","toNode":"1d98bfe6a27d50f1","toSide":"bottom"},
+		{"id":"5d768c695dcbab3e","fromNode":"0c884ab00b32528c","fromSide":"right","toNode":"a058e8d285fa3ece","toSide":"top"}
+	]
+}
